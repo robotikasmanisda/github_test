@@ -1,0 +1,12 @@
+- Web Dev :
+1. Belajar HTML
+2. Belajar CSS
+3. Belajar Bootstrap
+
+- Programming :
+1. Belajar C++
+2. Belajar GUI C++
+
+- Robotics :
+1. Belajar Transistor dan Dioda
+2. Belajar K-Map
