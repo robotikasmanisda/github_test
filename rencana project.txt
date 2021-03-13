@@ -2,6 +2,8 @@
 1. Belajar HTML
 2. Belajar CSS
 3. Belajar Bootstrap
+4. Belajar PHP
+5. Belajar Javascript
 
 - Programming :
 1. Belajar C++
