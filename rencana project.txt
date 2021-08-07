@@ -10,3 +10,5 @@
 - Robotics :
 1. Belajar Transistor dan Dioda
 2. Belajar K-Map
+
+Okey mangtap, gaskeun mabar
